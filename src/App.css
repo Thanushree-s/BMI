@@ -1,0 +1,12 @@
+button{
+    font-size: larger;
+    color: white;
+    background-color: rgb(81, 171, 255);
+    border: none;
+    padding: 7px;
+    font-weight: 700;
+    font-family: monospace;
+    border-radius: 4px;
+}
+input{
+}
